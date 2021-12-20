@@ -1,2 +1,2 @@
-# Tutorials index
+# Tutorials
 tutorials index
